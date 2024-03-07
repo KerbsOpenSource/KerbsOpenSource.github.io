@@ -3,8 +3,8 @@
     "displayTitle":"Blog.Kerbs",
     "subTitle":"Могут ли пауки ловить мух? Есть паутина — без вопросов.",
     "homeUrl":"https://blog.kerbs.dev",
-    "avatarUrl":"https://meekdai.com/avatar.svg",
-    "faviconUrl":"https://meekdai.com/favicon.svg",
+    "avatarUrl":"https://s3.kerbs.dev/blog/favicon.svg",
+    "faviconUrl":"https://s3.kerbs.dev/blog/favicon.svg",
     "singlePage":[],
     "GMEEK_VERSION":"last"
     "email":"blog@kerbs.dev",
