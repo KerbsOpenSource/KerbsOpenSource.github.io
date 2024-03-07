@@ -1,10 +1,18 @@
 {
-    "title":"Meekdai",
-    "displayTitle":"eekdai",
-    "subTitle":"童话是一种生活态度，仅此而已。",
-    "homeUrl":"https://blog.meekdai.com",
+    "title":"Blog.Kerbs",
+    "displayTitle":"Blog.Kerbs",
+    "subTitle":"Могут ли пауки ловить мух? Есть паутина — без вопросов.",
+    "homeUrl":"https://blog.kerbs.dev",
     "avatarUrl":"https://meekdai.com/avatar.svg",
     "faviconUrl":"https://meekdai.com/favicon.svg",
     "singlePage":[],
     "GMEEK_VERSION":"last"
+    "email":"blog@kerbs.dev",
+    "onePageListNum":16,,
+    "dayTheme":"light",
+    "nightTheme":"dark_colorblind",
+    "urlMode":"pinyin",
+    "bottomText":"❤️ Пожалуйста, указывайте источник! ❤️",
+    "style":"",
+    "script":"",
 }
