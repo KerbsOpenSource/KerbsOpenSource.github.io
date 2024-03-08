@@ -12,8 +12,3 @@ Options:
 ```
 
 Если кому-то интересно вот страничка на [github](https://github.com/KerbsOpenSource/pwdgenz), там есть [сборки на Linux и Windows](https://github.com/KerbsOpenSource/pwdgenz/releases).
-
-<spoiler title="Для любознательных">
-Мои ощущения при работе с Rust 
-<video>https://www.youtube.com/watch?v=qbWqXKN3m3c</video>
-</spoiler>
