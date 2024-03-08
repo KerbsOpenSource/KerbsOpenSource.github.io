@@ -7,6 +7,7 @@
     "faviconUrl":"https://s3.kerbs.dev/blog/favicon.svg",
     "singlePage":[],
     "GMEEK_VERSION":"last",
+    "showPostSource":0,
     "email":"blog@kerbs.dev",
     "onePageListNum":16,
     "dayTheme":"light",
